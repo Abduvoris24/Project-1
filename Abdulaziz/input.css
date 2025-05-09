@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.main{
+    width: 80%;
+    height: 500px;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.box{
+    width: 350px;
+    height: 450px;
+    background: url("./img/pexels-m죆ia-897270.jpg") no-repeat center/cover;
+}
+.box1{
+    width: 350px;
+    height: 450px;
+    background: url("./img/pexels-dmitry-zvolskiy-1805600.jpg") no-repeat center/cover;
+}
+.box2{
+    width: 350px;
+    height: 450px;
+    background: url("./img/pexels-davis-sanchez-3916359.jpg") no-repeat center/cover;
+}
+.main{
+    width: 80%;
+    height: 500px;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.box3{
+    width: 350px;
+    height: 450px;
+    background: url("./img/pexels-dmitry-zvolskiy-1805600.jpg") no-repeat center/cover;
+}
+.box4{
+    width: 350px;
+    height: 450px;
+    background: url("./img/pexels-davis-sanchez-3916359.jpg") no-repeat center/cover;
+}
+.box5{
+    width: 350px;
+    height: 450px;
+    background: url("./img/pexels-m죆ia-897270.jpg") no-repeat center/cover;
+}
+h1{
+    text-align: center;
+}
